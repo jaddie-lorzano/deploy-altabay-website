@@ -36,7 +36,9 @@
 @mixin font_6 {
   font: fonts.$font_6;
   color: colors.$text-color-1;
-  letter-spacing: 0em;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  font-weight: 600;
 }
 @mixin font_7 {
   font: fonts.$font_7;

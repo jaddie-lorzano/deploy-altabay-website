@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "text":"Home",
+      "url":"#"
+    },
+    {
+      "text":"Services",
+      "url":"#services"
+    },
+    {
+      "text":"About",
+      "url":"#about"
+    },
+    {
+      "text":"Testimonials",
+      "url":"#testimonials"
+    },
+    {
+      "text":"Clients",
+      "url":"#clients"
+    },
+    {
+      "text":"Contact",
+      "url":"#cta"
+    }
+  ],
+  "viewSlots": {
+    "text": "View Slots",
+    "url": "#slots"
+  },
+  "logo": "assets\/images\/updated_altabay_logo_blk.png"
+}
