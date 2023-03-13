@@ -18,25 +18,37 @@
         "logo": "assets\/svg\/services\/research_consultation.svg",
         "title": "Research Consultation",
         "description": "Meet with our consultants via Zoom or Google Meet to answer your inquiries regarding your research",
-        "buttonText": "Book"
+        "button": {
+          "text": "Book",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWnS8YJ-v1kjIeqgzZJrShze-bCCRZnqNG_JaCYemAXHWfqA/viewform?fbclid=IwAR07DQwRrq1Z0-n5jcuyG5i_BLxnzSi2JZD7mIFuUgnYqzvq6R1pJcY8H54"
+        }
       },
       {
         "logo": "assets\/svg\/services\/data_analysis.svg",
         "title": "Data Analysis",
         "description": "We perform statistical analysis services for your data, providing you with complete and interpreted tables and figures that could help you attain your research objectives.",
-        "buttonText": "Book"
+        "button": {
+          "text": "Book",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWnS8YJ-v1kjIeqgzZJrShze-bCCRZnqNG_JaCYemAXHWfqA/viewform?fbclid=IwAR07DQwRrq1Z0-n5jcuyG5i_BLxnzSi2JZD7mIFuUgnYqzvq6R1pJcY8H54"
+        }
       },
       {
         "logo": "assets\/svg\/services\/tutorial_services.svg",
         "title": "Tutorial Services",
         "description": "Enroll in our one-on-one or group online tutorials in Math and Statistics.",
-        "buttonText": "Book"
+        "button": {
+          "text": "Book",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWnS8YJ-v1kjIeqgzZJrShze-bCCRZnqNG_JaCYemAXHWfqA/viewform?fbclid=IwAR07DQwRrq1Z0-n5jcuyG5i_BLxnzSi2JZD7mIFuUgnYqzvq6R1pJcY8H54"
+        }
       },
       {
         "logo": "assets\/svg\/services\/vip_services.svg",
         "title": "VIP Services",
         "description": "Get <em><b>hands-on<\/b><\/em> assistance in your research from start to end of your research journey.",
-        "buttonText": "Book"
+        "button": {
+          "text": "Book",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeWnS8YJ-v1kjIeqgzZJrShze-bCCRZnqNG_JaCYemAXHWfqA/viewform?fbclid=IwAR07DQwRrq1Z0-n5jcuyG5i_BLxnzSi2JZD7mIFuUgnYqzvq6R1pJcY8H54"
+        }
       }
     ]
   },
@@ -78,17 +90,17 @@
       {
         "message":"Altabay Solutions - great assistance in the 2 researches needed for my diplomate and fellowship requirements. Professional and client friendly. I think its a must - to ask for their help with complicated research methodologies and statistics. Thank you and God bless!",
         "name":"Henry Mina",
-        "affiliation":"Repeat Client"
+        "affiliation":"Client"
       },
       {
-        "message":"I'm a testimonial. Click to edit me and add text",
-        "name":"Gabrial Spring",
-        "affiliation":"Company Name"
+        "message":"Altabay Solutions was such a huge help in making our research statistically sound. Very patient, and sessions are always high yield. They will help you understand concepts that may be difficult to grasp. 10/10 would recommend!",
+        "name":"Ella Lagman",
+        "affiliation":"Client"
       },
       {
-        "message":"I'm a testimonial. Click to edit me and add text",
-        "name":"Louise Maxwell",
-        "affiliation":"Company Name"
+        "message":"Altabay Solutions helped me find out what I have to work on, with detailed explanation and visual representations. It was really great help to me when I really needed it. 😊 Thank you so much and God bless you!",
+        "name":"Eun Grace Kim",
+        "affiliation":"Client"
       }
     ]
   },

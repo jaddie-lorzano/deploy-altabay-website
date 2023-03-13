@@ -10,7 +10,8 @@
     },
     {
       "text":"About",
-      "url":"#about"
+      "url":"#about",
+      "hide": true
     },
     {
       "text":"Testimonials",
@@ -18,11 +19,12 @@
     },
     {
       "text":"Clients",
-      "url":"#clients"
+      "url":"#clients",
+      "hide": true
     },
     {
       "text":"Contact",
-      "url":"#cta"
+      "url":"#contact"
     }
   ],
   "viewSlots": {
